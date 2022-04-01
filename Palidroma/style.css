@@ -1,0 +1,11 @@
+body{
+    background-color: black ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 150px;
+    color:white;
+    font-weight: bold;
+}
